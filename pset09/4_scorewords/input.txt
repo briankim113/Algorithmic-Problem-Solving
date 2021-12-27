@@ -1,0 +1,20 @@
+7 6
+one 1
+two 2
+three 3
+five 5
+ten 10
+fifty 50
+hundred 100
+one two three hundred
+.
+hundred hundred hundred hundred hundred hundred hundred hundred hundred hundred hundred
+hundred hundred hundred
+.
+fifty fifty fifty hundred fifty fifty fifty
+.
+.
+one two three five ten fifty hundred
+.
+seven seven seven
+.
